@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<!--[if gt IE 8]><!--> <html lang="en"  class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Lan Luo's Resume</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="../lib/jquery.pagepiling.css" type="text/css" />
+  <link rel="stylesheet" href="css/main.css" type="text/css" />
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+  <link rel="stylesheet" href="app.css">
+
+</head>
+<body>
+  <div id="pagepiling" ng-app="myResumeApp" ng-controller="myResumeController">
+    <div class="section center" id="homepage">
+      <img id="profileImg" src="../res/img/profileImg.png" alt="image here">
+      <h1>LAN LUO</h1>
+      <h3>Java Front web Developer | <a href="https://www.linkedin.com/in/lanluoprofile" target="_blank">LinkedIn</a></h3>
+      <h5>Phone: (973) - 901 - 2019
+        <br>
+        Email: lluo2007123@gmail.com
+      </h5>
+    </div>
+    <div class="section pp-scrollable" id="profile" data-ng-include="sectionTemplates[0].url" ></div>
+    <div class="section" id="skill"  data-ng-include="sectionTemplates[1].url"></div>
+    <div class="section pp-scrollable" id="project" data-ng-include="sectionTemplates[2].url"></div>
+    <div class="section" id="education" data-ng-include="sectionTemplates[3].url"></div>
+  </div>
+
+
+  <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script>window.jQuery || document.write('<script src="../blog/js/jquery-1.11.1.min.js"><\/script>');</script>
+  <script type="text/javascript" src="../lib/jquery.pagepiling.js"></script>
+  <script src="js/main.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+  <script src="https://code.angularjs.org/1.5.2/angular.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-route.js"></script>
+  <script src="app.js"></script>
+  <script src="controller/myReusmeController.js"></script>
+  <script src="factory/profileFactory.js"></script>
+
+</body>
+</html>

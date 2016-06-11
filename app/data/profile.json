@@ -1,0 +1,161 @@
+{
+  "User1": {
+    "profile": {
+      "name": "LAN LUO",
+      "jobTitle": "Java Front-end Web Developer",
+      "Linkedin": "https://www.linkedin.com/in/lanluoprofile",
+      "email": "lluo2007123@gmail.com",
+      "cell": "9739012019"
+    },
+    "introduction": [
+      "Java front web Programmer with 5 years IT experience in Object Oriented Java, J2EE and front-end programming, development of various Client/Server and Internet Applications.",
+      "Expertise in Spring Framework and Spring MVC structures",
+      "Excellent experience in developing, testing and implementing web applications using Java 7, Servlets, JSP, Spring, JavaScript, JSON,HTML 5, CSS 3, SASS 3.",
+      "Excellent experience in developing, testing and implementing web applications using Javascript library such as JQuery, AngularJS 1.3x and Bootstrap 3.x",
+      "Experience in developing REST WebServices, wsdl and xml schemas.",
+      "Good amount of exposure to J2EE Framework/Design patterns (MVC, Session Facade, Singleton and DAO).",
+      "Experienced in process, validate, parse, and extract data from XML",
+      "Experienced in debugging in both development and production environment. ",
+      "Excellent communication, presentation, interpersonal and problem solving skills.",
+      "Self-motivated, positive attitude towards work and good time management skill",
+      "Quick and creative in learning new technologies",
+      "Knowledge in Application Design using Object Oriented Analysis and Design (OOAD)"
+    ],
+    "skills":[
+      "Java EE Technology: Java 8, Spring 3.x, Spring MVC, JSP",
+      "Databases: MySQL 5.5, SQL Developer 4.1.2.",
+      "Web & Application Server: Apache Tomcat 7.0, 8.0.",
+      "Web: HTML 5, CSS 3.0, SASS 3.x, AJAX, JSON, JavaScript, JQuery 1.7, NodeJS 4.4x , BootStrap 3.3, AngularJS 1.5x.",
+      "XML: XSL, XSLT, JDOM, DOM.",
+      "Debugging and logging tools: JUnit 4, Log4j 1.2. SumoLogic, SoapUI 5.2, WireShark.",
+      "IDE: Eclipse***, Spring Tools Suite 3.1, WebStorm***.",
+      "Software Skills: Adobe Photoshop CS***, Adobe Illustrator CS***, SAI, Dreamweaver, Adobe Premiere, Sony Vegas***, Microsoft office."
+    ],
+    "experience":[
+      {
+        "client":"SuperSun Tech, Inc",
+        "timeframe":"Mar 2016 - tile now",
+        "jobtitle":"Java Front Web Developer",
+        "project":"Company business website",
+        "relatedTech":"Java 8, RESTful, NodeJS 4.4x, HTML 5, CSS 3, SASS 3.x, JavaScript, JSON, JQuery 1.8, AngularJS 1.5x, Bootstrap 3.x, AJAX, MAVEN 3, Git version control, Jasmine, MySQL, Photoshop, Agile.",
+        "relatedTechnology":"Java 8, RESTful, NodeJS 4.4x, HTML 5, CSS 3, SASS 3.x, JavaScript, JSON, JQuery 1.8, AngularJS 1.5x, Bootstrap 3.x, AJAX, MAVEN 3, Git version control, Jasmine, MySQL, Photoshop, Agile. ",
+        "roles":[
+          "Worked as a Java Front end Developer using Java and J2EE technologies.",
+         "Involved in designing the UI mockups using Photoshop.",
+         "Optimize image to reduce loading time by image slicing and image quality control using Photoshop.",
+         "Create web pages and implement new features using HTML 5, CSS 3 and Javascript based on the mockups.",
+         "Implement SASS to create a more manageable CSS.",
+         "Implement AngularJS and Bootstrap for front-end UI development for new features and integrate with the pre-existed features.",
+         "Implement responsive web design using Bootstrap.",
+         "Used AngularJS to create self-contained, reusable modules and components.",
+         "Created customized AngularJS directive to handle different page components template.",
+         "Created RESTful service using NodeJS and expressJS and consume user data using Angular.",
+         "Involved handle file upload and form data input using Formidable module.",
+         "Implemented AngularJS service such as $http and $q to handle AJAX calls asynchronously to communicate with REST service.",
+         "Implemented $route service to enable the route function between different tabs on a single page.",
+         "Involved built project using MAVEN tools.",
+         "Implement Git for version control and remain the code consistency.",
+         "Testing/troubleshooting for cross-platform, multi-browser compatibility.",
+         "Compiled Unit testing in eclipse to cover the new Java code using JUnit.",
+         "Involved using Jasmine for Javascript code testing.",
+         "Fetch and exam data using MySQL.",
+         "Involved in planning Sprint during Agile meeting and Sprint retrospective meetings."
+        ]
+      },
+      {
+        "client":"McGraw-Hill Education ",
+        "timeframe":"Jan 2014 - Jan 2016",
+        "jobtitle":"JAVA Developer",
+        "project":"ConnectED Web Application",
+        "relatedTech":"Java 8, Spring 3 MVC, Apache tile, JUnit 4, XML, JSP, HTML 5, CSS 3, JavaScript, JSON, JQuery 1.7x,  AngularJS 1.3x, Bootstrap 3.x, AJAX, MAVEN 3, SVN, Git version control, Apache Tomcat 8. SumoLogic, SQL.",
+        "description":"Agile project focuses on transfer McGraw Hill textbooks in to online education system using Oracle database for Class material and activity, creating a platform for students to interact with teachers. This project is a great opportunity to work with cutting-edge J2EE frameworks and technologies. The online education system is separated into different subjects such as mathematics, music, and literature, which using Spring MVC and Apache tile to build up connection between UI and Oracle database.",
+        "roles":[
+          "Worked as a JAVA Developer using Java and J2EE technologies for Agile project.",
+          "Implement business logic into Dev developing system.",
+          "Create web pages and implement new features based on the mockups from the UI designer.",
+          "Involved integrated Spring using both setter-based and constructor-based dependency injection for data persistence.",
+          "Involved using Spring 3 Frameworks (MVC) for main application framework using both XML and Annotations.",
+          "Created Web pages using HTML 5, CSS 3, JavaScript, JSP and JSTL.",
+          "Implement AngularJS and Bootstrap for front-end UI development for new features and integrate with the pre-existed features.",
+          "Implement responsive web design using Bootstrap.",
+          "Used AngularJS to create self-contained, reusable modules and components.",
+          "Implemented AngularJS service such as $http and $q to handle AJAX calls asynchronously to communicate with the Spring MVC controllers and request JSON data from database layer.",
+          "Created customized AngularJS directive to handle student¡¯s information and student¡¯s record template.",
+          "Implemented $route service to enable the route function between different tabs on a single page.",
+          "Created REST service using Jersey and consume the REST service using Angular and Spring MVC.",
+          "Involved built project using MAVEN tools.",
+          "Deployed and tested the application using Tomcat web server.",
+          "Implement Apache subversion(SVN) and Git for version control and remain the code consistency between developers.",
+          "Testing/troubleshooting for cross-platform, multi-browser compatibility.",
+          "Compiled Unit testing in eclipse to cover the new Java code using JUnit.",
+          "Involved using Jasmine for Javascript testing.",
+          "Monitor and debug Production exceptions using SumoLogic.",
+          "Fetch and exam client data using MySQL.",
+          "Involved in planning Sprint during Agile meeting and Sprint retrospective meetings."
+        ]
+      },
+      {
+        "client":"YOUHU.NET",
+        "timeframe":"Jun 2013 ¨C Dec 2013",
+        "jobtitle":"Java Front Web Developer",
+        "project":"Life Service Information Website",
+        "relatedTech":"Java 7, Spring 3 MVC, JSP, HTML 5, CSS 3, JavaScript, JSON, JQuery 1.7x, Bootstrap 3, AJAX, MAVEN 3, JUnit 4, Apache Tomcat 6, Jasmine.",
+        "roles":[
+          "Design Ads, posters and photographers",
+          "The architecture is based on Spring 3 frameworks MVC-2 (Model View Controller) design pattern and J2EE specifications.",
+          "Involved in designing the UI using HTML 5, CSS3, JavaScript and jQuery.",
+          "Integrate BootStrap for styling.",
+          "Implement responsive web design using Bootstrap 3.",
+          "Used JQuery event handling in UI pages to display list boxes and to handle validations.",
+          "Object Oriented Programming (OOP) in jQuery using prototype to enable the inheritance and code optimize.",
+          "Implemented AJAX checking username availability.",
+          "Involved implement AJAX for form and post submission.",
+          "Involved using JSON obtain data from web server.",
+          "Testing/troubleshooting for cross-platform, multi-browser compatibility.",
+          "Involved in Unit Testing using JUnit 4.",
+          "Involved using Jasmine for Javascript testing.",
+          "Involved in planning Sprint during AGILE meeting and Sprint retrospective meetings."
+        ]
+      },
+      {
+        "client":"Yin Feng Info Science & Tech Co., Ltd ",
+        "timeframe":"Nov 2009 - Jul 2011",
+        "jobtitle":"Intern Java Developer",
+        "project":"Customer order online application",
+        "relatedTech":"Java, Javascript, CSS, JSON, JUnit, Jasmine.",
+        "roles":[
+          "Involved in designing the website using HTML and Javascript.",
+          "Created Web pages using HTML and CSS.",
+          "Involved DOM manipulate and webpage validations using JQuery.",
+          "Involved create Javascript testing using Jasmine.",
+          "Involved implement REST for Web Services.",
+          "Involved using JSON obtain data from web server.",
+          "Testing/troubleshooting for cross-platform, multi-browser compatibility."
+        ]
+      },
+      {
+        "client":"China Sky One Medical, Inc",
+        "timeframe":"Jun 2008 ¨C Sep 2009",
+        "jobtitle":"Intern Java Developer",
+        "project":"Website maintenance",
+        "relatedTech":"Java, HTML, CSS, XML, MySQL 5, JUnit.",
+        "description":"China Sky one Medical, Inc website is a web allowed the client to demonstrate company culture, exhibit products, update company trend and information.",
+        "roles":[
+          "Involved in designing the user Interface using HTML and JQuery.",
+          "Involved in client side validations using JQuery.",
+          "Change the UI design to web page using HTML and CSS.",
+          "Involved connecting and management Mysql database using Hibernate ORM Mapping",
+          "Involved using POJO programming model for persistent class.",
+          "Provided production support for incoming problems",
+          "Involved in testing application functionality using JUnit."
+        ]
+      }
+    ],
+    "education":{
+      "university":"",
+      "universityAbb":"",
+      "major":"Master of Science - Electronic Engineering",
+      "graduateYear":"2011 - 2013"
+    }
+  }
+}

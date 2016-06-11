@@ -1,0 +1,106 @@
+/* app css stylesheet */
+body{
+  font-size: 14px;
+}
+p{
+  font-size:18px;
+}
+h1{
+  text-shadow: 3px 2px #94c1c1;
+}
+h1,h3,h4{
+  font-weight: 900;
+}
+h5{
+  font-size: 1.5em;
+  opacity: 0.7;
+}
+ul#profileSummary>li, ul#skillList>li{
+  font-size:1.5em;
+}
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
+
+div#profile h1,div#project h1,div#skill h1,div#education h1{
+  padding-left: 25px;
+}
+.center{
+  text-align: center;
+}
+.section {
+  background-color: #56b2e5;
+  color:#eef3f0;
+  padding:50px;
+  transition:0.5s
+}
+#profileImg{
+  width:150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid rgba(247, 247, 247, 0.5);
+}
+#profileSummary{
+  text-align: left;
+}
+#projectTime{
+  opacity: 0.8;
+}
+
+div#SuperSunProject{
+  margin: 20px 0px;
+}
+.panel-body{
+  color:#666;
+}
+
+h3#major{
+  margin-left: 25px;
+  opacity: 0.7;
+}
+
+h3#university{
+  margin-left:25px;
+}
+h3#university span{
+  color: #4682b4;
+}
+div#homepage h3>a{
+  color:#3774a9;
+}
+div#homepage h3>a:hover{
+  color:#eef3f0;
+}
+ul.projectList {
+  list-style: none;
+  padding-left: 25px;
+}
+h3.certification{
+  margin-left: 25px;
+  opacity: 0.7;
+}
